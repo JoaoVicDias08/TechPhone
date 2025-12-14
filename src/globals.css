@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+:root {
+
+    --font-title: 'Bebas Neue', cursive;
+    --font-body: 'Source Sans 3', sans-serif;
+
+    --blue: "#137FEC",
+    --green: "#10B981",
+    --white: "#f6f7f8",
+    --black: "#101922",
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
